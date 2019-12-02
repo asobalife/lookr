@@ -14,7 +14,7 @@ Important!
 *All of the old code is available on the old-lookr branch, so if you want to continue using it, you an install from that branch by setting* `ref` *to* `old-lookr`:
 
 ``` r
-devtools::install_github("looker/lookr", ref = "old-lookr")
+devtools::install_github("asobalife/lookr", ref = "old-lookr")
 ```
 
 Install
@@ -23,7 +23,7 @@ Install
 Use `devtools` to install from this repository:
 
 ``` r
-devtools::install_github("looker/lookr")
+devtools::install_github("asobalife/lookr")
 library(lookr)
 ```
 
